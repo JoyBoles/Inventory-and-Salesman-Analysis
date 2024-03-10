@@ -6,3 +6,5 @@ This a Power BI project done as part of the ITI intensive code camp program. It 
 2️⃣ Sales Team Performance
 
 3️⃣ Products Inventory Analysis
+
+Note: columns followed by -- are the new columns I added
